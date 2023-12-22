@@ -5,4 +5,9 @@ Optimized Horiseon website
 This is a refactoring of the existing code for the Horiseon website. With these changes the website is now more efficient and accessible. The style of the page was not modified. 
 
 ## Link
-[Deployed Page] (https://jennymunar.github.io/Horiseon/)
+[Deployed Page](https://jennymunar.github.io/Horiseon/) 
+
+## Contribution
+<li> Original code from Coding Bootcamp </li>
+<li> Slack forums </li>
+<li> mdn web docs </li>
